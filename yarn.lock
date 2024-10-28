@@ -2027,15 +2027,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@pnthach95/react-native-root-view-background@npm:^1.4.6":
-  version: 1.4.6
-  resolution: "@pnthach95/react-native-root-view-background@npm:1.4.6"
+"@pnthach95/react-native-root-view-background@npm:^1.4.7":
+  version: 1.4.7
+  resolution: "@pnthach95/react-native-root-view-background@npm:1.4.7"
   dependencies:
     colord: ^2.9.3
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: e9e38ea9229cb0574125a7961edfcec28c0ee793c51b2bee5eed4a691ebd1a4b3f38c24c8c4bc16553e0d3ca4fe758faf68952280ce6910f2a92b5ca32040efe
+  checksum: 4f539da57b0723e51e421072ba8fb91ff4a21468859aed7198ea3e6e3673c56d6896eba78192f1b90e0182350acb2caec08faa05c5a57f77c93b419279e46d98
   languageName: node
   linkType: hard
 
@@ -8167,7 +8167,7 @@ __metadata:
     "@babel/core": ^7.25.2
     "@babel/preset-env": ^7.25.3
     "@babel/runtime": ^7.25.0
-    "@pnthach95/react-native-root-view-background": ^1.4.6
+    "@pnthach95/react-native-root-view-background": ^1.4.7
     "@react-native-community/cli": 15.0.0-alpha.2
     "@react-native-community/cli-platform-android": 15.0.0-alpha.2
     "@react-native-community/cli-platform-ios": 15.0.0-alpha.2
